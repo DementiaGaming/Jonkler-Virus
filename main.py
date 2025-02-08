@@ -86,3 +86,4 @@ writeToDesktop(100)
 change_wallpaper("images\\jonkler.jpg")
 time.sleep(2)
 fakeBSOD()
+#test
